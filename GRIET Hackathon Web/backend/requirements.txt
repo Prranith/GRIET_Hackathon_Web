@@ -1,0 +1,9 @@
+Flask==3.0.0
+Flask-CORS==4.0.0
+python-dotenv==1.0.0
+Pillow==10.0.0
+pytesseract==0.3.10
+Werkzeug==3.0.1
+PyJWT==2.8.0
+phonenumbers==8.13.25
+email-validator==2.1.0.post1
